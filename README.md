@@ -1,0 +1,1 @@
+This project is basically have some findings based on analysis of sales data abouts its customer demographics ,payment modes of customers used for purchase ,days of max sale,genderwise sales,sale trends and along with found insights using different  graphs.
